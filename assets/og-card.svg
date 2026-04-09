@@ -1,0 +1,14 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F9FAFB"/>
+  <rect x="70" y="70" width="1060" height="490" rx="40" fill="white" stroke="#D1D5DB"/>
+  <rect x="130" y="130" width="120" height="120" rx="28" fill="#0B2F4A"/>
+  <path d="M190.001 158C193.792 158 196.865 161.073 196.865 164.864V206.966L222.644 190.334C225.832 188.277 230.087 189.189 232.149 192.372C234.212 195.554 233.302 199.803 230.122 201.87L204.255 218.56L204.256 235.562C204.256 247.237 214.958 254.262 224.709 256.915L229.271 258.158C230.151 258.398 230.607 259.361 230.345 260.236C230.136 260.935 229.491 261.414 228.76 261.414H151.364C150.451 261.414 149.71 260.673 149.71 259.76C149.71 259.037 150.179 258.397 150.87 258.159L155.084 256.706C164.605 253.425 175.743 246.39 175.743 235.562V218.56L149.877 201.87C146.696 199.803 145.787 195.554 147.849 192.372C149.912 189.189 154.167 188.277 157.355 190.334L183.134 206.966V164.864C183.134 161.073 186.207 158 190.001 158Z" fill="white"/>
+  <circle cx="160" cy="184" r="15" fill="#67D1C8"/>
+  <circle cx="187" cy="166" r="14" fill="#67D1C8"/>
+  <circle cx="210" cy="178" r="12" fill="#FFB258"/>
+  <circle cx="232" cy="194" r="13" fill="#FFB258"/>
+  <text x="300" y="195" fill="#0B2F4A" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700">Met</text>
+  <text x="300" y="285" fill="#0B2F4A" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">Plant the connection.</text>
+  <text x="300" y="360" fill="#0B2F4A" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">Grow the relationship.</text>
+  <text x="300" y="443" fill="#1F2937" font-family="Arial, Helvetica, sans-serif" font-size="30">Capture contacts, remember the context, and send a better follow-up.</text>
+</svg>
